@@ -152,7 +152,7 @@ http://127.0.0.1:11434
 ### 2️⃣ Setup Environment
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Balaji6382/Ai-Task-Manager.git
 cd AI_Task_Manager_Agent-main
 
 python -m venv venv

@@ -269,7 +269,7 @@ Input → Validate → Categorize → Review → Store → Retrieve
 
 ## 📺 Demo
 
-🎥 
+🎥 https://youtu.be/eBnbPhpXTXs
 
 ---
 ## 💡 Final Note
